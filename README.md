@@ -1,11 +1,6 @@
-## Healthchecker.
+## Go - Healthchecker
 
 A tiny tool that checks the given domain is down.
-
-## Installation
-
-> This project needs to Go (At least 1.13) to compile.  
->  Download from [**here**](https://golang.org/dl/).
 
 **Get the repo.**
 
